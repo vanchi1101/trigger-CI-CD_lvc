@@ -48,7 +48,7 @@ function Signup() {
       <Flex align="center" width="full" justifyContent="center">
         <Box pt={10}>
           <Box textAlign="center">
-            <Heading>Signup</Heading>
+            <Heading>Sign upppp</Heading>
           </Box>
           <Box my={5}>
             {formik.errors.general && (
